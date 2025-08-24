@@ -8,7 +8,7 @@ const {
   generateWAMessageFromContent,
   prepareWAMessageMedia,
   generateWAMessage,
-} = require("@whiskeysockets/baileys");
+} = require("darknessbail");
 const { Octokit } = require("@octokit/rest");
 const fs = require("fs");
 const os = require("os");
